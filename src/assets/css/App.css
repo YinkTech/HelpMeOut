@@ -1,0 +1,13 @@
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+input,
+select:focus {
+  outline: none;
+}
+
+.firstSect-div2 {
+  background: url(./../img//grid1.png);
+  background: url(./../img//grid2.png);
+}
